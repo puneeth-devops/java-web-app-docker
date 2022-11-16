@@ -101,13 +101,13 @@
 	<!-- <distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-release/</url>
+	      <name>Puneeth Naik Releases Nexus Repository</name>
+	      <url>http://52.66.204.252:8081/puneethnaik/repository/java-web-docker-release-repo/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.235.8.113:8081/repository/flipkart-snapshot/</url>
+	      <name>Puneeth Naik Snapshot Nexus Repository </name>
+	      <url>http://52.66.204.252:8081/puneethnaik/repository/java-web-docker-snapshot-repo/</url>
 	    </snapshotRepository>
 	</distributionManagement> -->
 	
