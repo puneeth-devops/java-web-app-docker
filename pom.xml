@@ -100,7 +100,7 @@
 
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
 	      <name>Puneeth Naik Releases Nexus Repository</name>
@@ -111,7 +111,7 @@
 	      <name>Puneeth Naik Snapshot Nexus Repository </name>
 	      <url>http://52.66.204.252:8081/puneethnaik/repository/java-web-docker-snapshot-repo/</url>
 	    </snapshotRepository>
-	</distributionManagement> -->
+	</distributionManagement> 
 	
 	<build>
 		<plugins>
